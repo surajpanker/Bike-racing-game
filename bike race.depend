@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1280000223 source:c:\users\ramesh\desktop\sanjeev\bike race\main.cpp
+	<iostream>
+	<sstream>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"constants.h"
+	"string"
+	"coardinate.h"
+	"variable.h"
+	"init.h"
+	"function.h"
+	"collision.h"
+	"process.h"
+	"menu.h"
+
+1279998645 c:\users\ramesh\desktop\sanjeev\bike race\variable.h
+
+1279998602 c:\users\ramesh\desktop\sanjeev\bike race\init.h
+
+1280000463 c:\users\ramesh\desktop\sanjeev\bike race\process.h
+
+1279975532 c:\users\ramesh\desktop\sanjeev\bike race\coardinate.h
+
+1279974116 c:\users\ramesh\desktop\sanjeev\bike race\constants.h
+
+1279993277 c:\users\ramesh\desktop\sanjeev\bike race\collision.h
+
+1279987432 c:\users\ramesh\desktop\sanjeev\bike race\function.h
+
+1280000223 source:c:\users\ramesh\desktop\bike race\main.cpp
+	<iostream>
+	<sstream>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"constants.h"
+	"string"
+	"coardinate.h"
+	"variable.h"
+	"init.h"
+	"function.h"
+	"collision.h"
+	"process.h"
+	"menu.h"
+
+1279974116 c:\users\ramesh\desktop\bike race\constants.h
+
+1279975532 c:\users\ramesh\desktop\bike race\coardinate.h
+
+1279998645 c:\users\ramesh\desktop\bike race\variable.h
+
+1279998602 c:\users\ramesh\desktop\bike race\init.h
+
+1279987432 c:\users\ramesh\desktop\bike race\function.h
+
+1279993277 c:\users\ramesh\desktop\bike race\collision.h
+
+1279994648 c:\users\ramesh\desktop\bike race\process.h
+
+1280000237 c:\users\ramesh\desktop\bike race\menu.h
+
+1280000237 c:\users\ramesh\desktop\sanjeev\bike race\menu.h
+
+1280032065 source:c:\users\ranjeet\desktop\sanjeev\bike race\main.cpp
+	<iostream>
+	<sstream>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"constants.h"
+	"string"
+	"coardinate.h"
+	"variable.h"
+	"init.h"
+	"function.h"
+	"collision.h"
+	"process.h"
+	"menu.h"
+
+1279974118 c:\users\ranjeet\desktop\sanjeev\bike race\constants.h
+
+1279975534 c:\users\ranjeet\desktop\sanjeev\bike race\coardinate.h
+
+1279998646 c:\users\ranjeet\desktop\sanjeev\bike race\variable.h
+
+1279998604 c:\users\ranjeet\desktop\sanjeev\bike race\init.h
+
+1279987434 c:\users\ranjeet\desktop\sanjeev\bike race\function.h
+
+1280032253 c:\users\ranjeet\desktop\sanjeev\bike race\collision.h
+
+1280032350 c:\users\ranjeet\desktop\sanjeev\bike race\process.h
+
+1280000238 c:\users\ranjeet\desktop\sanjeev\bike race\menu.h
+

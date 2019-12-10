@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="coardinate.h" open="1" top="0" tabpos="5">
+		<Cursor position="1803" topLine="58" />
+	</File>
+	<File name="collision.h" open="1" top="1" tabpos="7">
+		<Cursor position="1912" topLine="33" />
+	</File>
+	<File name="constants.h" open="1" top="0" tabpos="6">
+		<Cursor position="566" topLine="0" />
+	</File>
+	<File name="function.h" open="1" top="0" tabpos="8">
+		<Cursor position="279" topLine="0" />
+	</File>
+	<File name="init.h" open="1" top="0" tabpos="3">
+		<Cursor position="1077" topLine="30" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="486" topLine="5" />
+	</File>
+	<File name="menu.h" open="1" top="0" tabpos="9">
+		<Cursor position="1028" topLine="34" />
+	</File>
+	<File name="process.h" open="1" top="0" tabpos="4">
+		<Cursor position="0" topLine="98" />
+	</File>
+	<File name="variable.h" open="1" top="0" tabpos="2">
+		<Cursor position="247" topLine="23" />
+	</File>
+</CodeBlocks_layout_file>

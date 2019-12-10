@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="bike race" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\bike race" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add option="-lmingw32" />
+					<Add option="-lsdlmain" />
+					<Add option="-lsdl" />
+					<Add option="-lsdl_image" />
+					<Add option="-lsdl_ttf" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\bike race" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="coardinate.h" />
+		<Unit filename="collision.h" />
+		<Unit filename="constants.h" />
+		<Unit filename="function.h" />
+		<Unit filename="init.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="menu.h" />
+		<Unit filename="process.h" />
+		<Unit filename="variable.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
